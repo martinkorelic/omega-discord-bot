@@ -2,7 +2,7 @@
 Omega Discord bot is a javascript bot written and built by myself. Personal fun project.
 
 **Version: 0.5.0**
-* * *
+
 ## Commands
 
 >Prefix for commands: `o!`
